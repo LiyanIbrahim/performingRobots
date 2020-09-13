@@ -16,6 +16,6 @@ I wanted to recreate the first tune in the song Jingle Bells as played on the pi
 ### Circuit: 
 ![](September14/circuit.png)
 
-###Schematic: 
+### Schematic: 
 [Hand drawn figure of my circuit.](September14/schematic.png)
   
