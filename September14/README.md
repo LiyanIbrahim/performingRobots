@@ -13,7 +13,7 @@ I wanted to recreate the first tune in the song Jingle Bells as played on the pi
 </p>
 
 ## Circuit: 
-![](circuit.png)
+![](circuit2.png)
 
 ## Schematic: 
 [Hand drawn figure of my circuit.](schematic.png)
