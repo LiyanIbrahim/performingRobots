@@ -29,7 +29,7 @@ While my concepts at this stage are mainly purposeless as a pose to functional, 
 For example, the first switch idea could be used with different sensors that could trigger the second pattern of the switch. This could be used to detect high pressure, high temperature and other attributes that can have a threshold value. The second switch idea could be adapted into pianos in which the lights are used to guide beginner piano players to a certain tune ( I am sure this already exists somewhere). 
 
 ### References: 
-https://www.youtube.com/watch?v=SEpOmHH_RzU
+https://www.youtube.com/watch?v=SEpOmHH_RzU </br>
 https://community.platformio.org/t/ledblink-was-not-declared-in-this-scope/14768
 
  
