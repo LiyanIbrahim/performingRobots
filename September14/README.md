@@ -1,4 +1,3 @@
-# Performing Robots
 ## September14
 ### Concept description:
 For this production assignment, I wanted to generate two different patterns for the two switches, in which both of the switches will be controlling all the 5 LEDs connected to the Arduino. <br /> 
@@ -14,10 +13,10 @@ I wanted to recreate the first tune in the song Jingle Bells as played on the pi
 </p>
 
 ### Circuit: 
-![](September14/circuit.png)
+![](circuit.png)
 
 ### Schematic: 
-[Hand drawn figure of my circuit.](September14/schematic.png)
+[Hand drawn figure of my circuit.](schematic.png)
 
 ### Problems and Solutions:
 ***Problem 1:*** My initial idea was to have both switches connected in terms of their functionality and pattern. Therefore, I thought of having the first switch run indefinitely and pressing the second switch would produce a different pattern which would terminate the loop. This did not work since I ran into the problem that the program would wait till the first switch finishes executing to allow us to press (and see the pattern) on the second switch which in my case was not possible since the loop in my first switch runs indefinitely. </br>
