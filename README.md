@@ -24,4 +24,12 @@ I wanted to recreate the first tune in the song Jingle Bells as played on the pi
 ***Solution 1:*** I decided to adapt the same concept but restricting it to using one switch to perform both patterns and allowing the loop (that was suppose to run indefinitely) to iterate 3 times. I then proceeded to explain the purpose of this concept in the documentation.</br>
 ***Problem 2:*** This was a technical problem in which my code (which contains multiple functions) would produce an error message stating that using the functions I defined in void loop() are not declared in the scope. </br> 
 ***Solution 2:*** After googling and researching the error message, it turns out that the c++ compiler needed these functions to be declared before the void loop() function where they are used. Therefore, I added the function declaration before void loop() keeping the function definitions where they were. 
-  
+### Further notes: 
+While my concepts at this stage are mainly purposeless as a pose to functional, they can both be adapted and potentially incorporated in larger systems for functional use. 
+For example, the first switch idea could be used with different sensors that could trigger the second pattern of the switch. This could be used to detect high pressure, high temperature and other attributes that can have a threshold value. The second switch idea could be adapted into pianos in which the lights are used to guide beginner piano players to a certain tune ( I am sure this already exists somewhere). 
+
+### References: 
+https://www.youtube.com/watch?v=SEpOmHH_RzU
+https://community.platformio.org/t/ledblink-was-not-declared-in-this-scope/14768
+
+ 
