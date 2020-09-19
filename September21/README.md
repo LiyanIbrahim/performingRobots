@@ -10,7 +10,7 @@
   
   ![](September21/media/1.png) 
   
-  ![](September21/media/2.JPG) 
+  ![](September21/media/2.jpeg) 
   </li>
   <li>Glueing </br>
   Figuring out the order of glueing of the different pieces and adjusting the measurements based on that so they fit nicely 
