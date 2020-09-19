@@ -8,7 +8,7 @@
 <ol>
   <li>Measuring and cutting </br>
   
-  ![](September21/media/1.png) 
+  ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/media/1.png) 
   
   ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/2.jpeg) 
   </li>
@@ -21,6 +21,6 @@
 
 
 
-![](September21/2.jpeg)   
+ 
   
 
