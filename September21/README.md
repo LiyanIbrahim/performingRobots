@@ -7,6 +7,7 @@
 
 <ol>
   <li>Measuring and cutting </br>
+  
   ![](September21/media/1.JPG) 
   
   ![](September21/media/2.JPG) 
