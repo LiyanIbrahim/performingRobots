@@ -23,6 +23,9 @@
 ## Final Result: 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/media/4.png) 
 
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/media/5.png)
+
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/media/6.png)
 
 
  
