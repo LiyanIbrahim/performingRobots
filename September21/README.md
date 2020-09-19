@@ -6,7 +6,9 @@
 ## Process:
 
 <ol>
-  <li>Measuring and cutting</li>
+  <li>Measuring and cutting
+  ![](September21/media/1.png) ![](September21/media/2.png) 
+  </li>
   <li>Glueing </br>
   Figuring out the order of glueing of the different pieces and adjusting the measurements based on that so they fit nicely 
   <li>I then let it dry and used coloured sharpies to decorate it </li>
