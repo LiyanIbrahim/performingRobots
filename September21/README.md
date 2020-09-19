@@ -7,7 +7,9 @@
 
 <ol>
   <li>Measuring and cutting </br>
-  ![](September21/media/1.JPG) ![](September21/media/2.JPG) 
+  ![](September21/media/1.JPG) 
+  
+  ![](September21/media/2.JPG) 
   </li>
   <li>Glueing </br>
   Figuring out the order of glueing of the different pieces and adjusting the measurements based on that so they fit nicely 
