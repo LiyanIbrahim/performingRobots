@@ -13,7 +13,8 @@
   ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/2.jpeg) 
   </li>
   <li>Glueing </br>
-  Figuring out the order of glueing of the different pieces and adjusting the measurements based on that so they fit nicely 
+  Figuring out the order of glueing of the different pieces and adjusting the measurements based on that so they fit nicely </br>
+  ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/September21/media/3.png)  
   <li>I then let it dry and used coloured sharpies to decorate it </li>
   </ol>
 
