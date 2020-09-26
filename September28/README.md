@@ -9,6 +9,14 @@
 
 ## Demo: 
 
+![](PR2.png)
+
+![](PR3.png)
+
+![](PR4.png)
+
+![](PR5.png)
+
 ## Notes about the code: 
 
 <p>
