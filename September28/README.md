@@ -23,3 +23,11 @@
   Even though some functions are extremely simple and could easily be included in the code, having them in the form of functions made it significantly easier for me to read, understand, debug and work with my code. Additionally, using the serial monitor was really helpful to make sure that my components are connected correctly and helped me debug. Also, most of the libraries and setup parts were taken from the examples that are already given and just modified them to do what is required in this assignment. 
 </p> 
 
+## Sources that helped me debug 
+<ol>
+  <li> https://forum.arduino.cc/index.php?topic=314764.0 </li>
+  <li> https://www.eevblog.com/forum/microcontrollers/arduino-serial-monitor-reset/ </li>
+  <li> https://arduino.stackexchange.com/questions/439/why-does-starting-the-serial-monitor-restart-the-sketch </li>
+  
+  </ol>
+  
