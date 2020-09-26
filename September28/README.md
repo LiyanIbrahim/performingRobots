@@ -5,6 +5,8 @@
   
 ## Setup: 
 
+![](PR1.png)
+
 ## Demo: 
 
 ## Notes about the code: 
