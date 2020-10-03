@@ -11,7 +11,7 @@ It starts off by going forward, towards the people. It then turns using a certai
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/October5/2.png)
 
 ## Demo: 
-
+[Link to the videos](https://github.com/LiyanIbrahim/performingRobots/blob/master/October5/2.png)
 ## Notes: 
 I used a software called Audacity in order to make the sound “dying robot” which I got online repeat a certain amount of times I wanted it to. </br>
 I wanted to avoid hot glueing as many components as I could. So I made a box at the back of the robot to insert the battery and speaker. I don’t think this was a good idea since it caused an imbalance in my robot and it now needs to be tilted in order to move.  </br>
