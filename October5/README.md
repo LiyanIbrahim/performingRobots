@@ -6,6 +6,10 @@ It starts off by going forward, towards the people. It then turns using a certai
 
 ## Pictures of robot: 
 
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/October5/1.png)
+
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/October5/2.png)
+
 ## Demo: 
 
 ## Notes: 
