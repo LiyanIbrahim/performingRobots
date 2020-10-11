@@ -15,5 +15,11 @@ I did not anticipate how hard it would be to film the entire performance in one 
   <li> I also don't know why, but when filming the performance, the OLED display glitches but it did not glitch when in real life. </li>
   </ul>
   
+  ## Some resources:
+ 
+ https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/ </br>
+ https://www.instructables.com/Fun-With-OLED-Display-and-Arduino/ </br>
+ 
+  
   
 
