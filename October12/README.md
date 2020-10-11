@@ -2,7 +2,11 @@
 For this assignment, I wanted to expand and make this an extension of my previous project. My previous robot was a simple robot that just delivers hand sanitizer. The movements involved addresses different people by having the robot move at an angle at about one pivot. For this robot, it’s communicating to the people it's serving that it's a good, useful service robot despite what the media has been perpetuating. However, it is also used to show the “emotions” attributed to a robot are presented in an extreme manner. This is shown through the OLED which is either showing hearts and good patterns or “destruction”. The movement of the motor is also meant to match that. 
 
 ## Demo: 
-(Link to video with demo)[].
+I did not anticipate how hard it would be to film the entire performance in one shot since I had many different angles so I filmed multiple shots and edited them together. </br>
+(This is the edited version of the performance)[]  </br>
+
+(This is my best attempt to film a none edited version)[] </br>
+
 
 ## Some notes about this assignment: 
 <ul>
