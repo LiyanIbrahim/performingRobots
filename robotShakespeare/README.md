@@ -1,5 +1,5 @@
 ## Play and Scene for this assignment: 
-For this assignment, my initial idea is to have my robot act in this scene (put link) in the play Romeo and Juliet. This is the scene between Juliet and her nurse and it takes place in Juliet’s chamber. 
+For this assignment, my initial idea is to have my robot act in this (scene)[http://www.shakespeare-online.com/plays/romeo_4_3.html] in the play Romeo and Juliet. This is the scene between Juliet and her nurse and it takes place in Juliet’s chamber. 
 
 ## Ideas and Plan: 
 <ul>
