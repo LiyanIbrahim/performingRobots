@@ -11,4 +11,10 @@ For this assignment, my initial idea is to have my robot act in this scene (put 
 ## Ideas I’ve tried: 
 I tried placing the doll in the pouch that was already in my robot but it was not too exciting and so from my previous point, I think I would like to explore having the act be exclusively the robot.
 
+## Ideas for scenery and props: 
+
+Since my parents live nearby and I have a younger sister, I plan on borrowing dolls and doll props to play the other actors and decorate the stage. </br> 
+Since my scene takes place in Juliet’s chamber, I would ideally like to recreate that environment using doll props such as a bed, couch, some sort of curtains, some indication of a window and other props relevant to the scene. </br>
+One problem I might encounter is the relative size of the robot compared to the barbie and the other props (which many of them are made for the size of the barbie).
+
 
