@@ -17,4 +17,8 @@ Since my parents live nearby and I have a younger sister, I plan on borrowing do
 Since my scene takes place in a. forest, I would ideally like to recreate that environment using fake plants, wood, cardbord and other props relevant to the scene. </br>
 One problem I might encounter is the relative size of the robot compared to the barbie and the other props (which many of them are made for the size of the barbie).
 
+##  Deciding how to use the OLED: 
+
+For my purposes, I do want to use the OLED but not in a traditional manner. While my robot does look like a human, I do not think the scene I used will need the OLED as a “facial expression” generator. For now, I think it would be cool to display different aspects of the character’s personality. 
+  
 
