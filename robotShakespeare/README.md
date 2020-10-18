@@ -24,6 +24,7 @@ Some examples include: </br>
 <ul>
   <li>“Rosalind falls in love with Orlando at first sight”</li>
   <li>“Rosalind is a particular favorite among feminist critics, who admire her ability to subvert the limitations that society imposes on her as a woman.”</li>
+  <li> "She has, indeed, been frequently regarded as the ideal romantic heroine — very warm and very human, and in any good production, she dominates the stage."(Which is very funny because she literally is not human in my play)
   </ul>
   
 
