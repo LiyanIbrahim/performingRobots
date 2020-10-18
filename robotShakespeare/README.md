@@ -19,6 +19,14 @@ One problem I might encounter is the relative size of the robot compared to the 
 
 ##  Deciding how to use the OLED: 
 
-For my purposes, I do want to use the OLED but not in a traditional manner. While my robot does look like a human, I do not think the scene I used will need the OLED as a “facial expression” generator. For now, I think it would be cool to display different aspects of the character’s personality. 
+For my purposes, I do want to use the OLED but not in a traditional manner. While my robot does look like a human, I do not think the scene I used will need the OLED as a “facial expression” generator. For now, I think it would be cool to display different aspects of the character’s personality and the dynamic of the scene.
+Some examples include: </br>
+<ul>
+  <li>“Rosalind falls in love with Orlando at first sight”</li>
+  <li>“Rosalind is a particular favorite among feminist critics, who admire her ability to subvert the limitations that society imposes on her as a woman.”</li>
+  </ul>
+  
+
+
   
 
