@@ -67,7 +67,7 @@ Even though my OLED did not do something exciting, it was completely working but
 I also did not realize how bad the audio will be on camera as compared to the boy actor who’s voice came from my phone. This is why I added subtitles (The audio was still unclear with different audio files and in real life but it was worse on camera). </br>
 The robot, when turning, strangled herself with the wire connected to my computer so I had to edit it out and insert another clip.  </br>
 
-[Link to the Video]()
+[Link to the Video](https://drive.google.com/drive/u/0/folders/1SAPPS6pb93D90KVp8947oFayVN6HsPjE)
 
 **Resources**
 https://www.cliffsnotes.com/literature/a/as-you-like-it/character-analysis/rosalind </br> 
