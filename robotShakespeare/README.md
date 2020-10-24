@@ -34,7 +34,7 @@ Today, I have to evaluate what I have done so far and test the program to make s
 
 I think the best way to test it is to test scene by scene and combining the scenes that I am happy with.
 
-**Check in 1: 
+**Check in 1**: 
 
 After fixing up the code and making sure the robot runs smoothly according to the code, I had to record the sounds and dialogue for the play. 
 After doing that and inserting them in the SD card, I realized that my SD card was not reading them correctly even though I labelled them and was indexing them correctly. After many many tries and many many serial print statements, I resorted to combining the different mp3 files into one and having muted slots between them where Orlando speaks. 
