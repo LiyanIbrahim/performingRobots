@@ -33,5 +33,13 @@ Everything I have written so far was all done pre October 24. [This](https://git
 Today, I have to evaluate what I have done so far and test the program to make sure the robot is doing what I want. Then I need to record the audio, set up the scene and film it! 
 
 I think the best way to test it is to test scene by scene and combining the scenes that I am happy with.
+
+**Check in 1: 
+
+After fixing up the code and making sure the robot runs smoothly according to the code, I had to record the sounds and dialogue for the play. 
+After doing that and inserting them in the SD card, I realized that my SD card was not reading them correctly even though I labelled them and was indexing them correctly. After many many tries and many many serial print statements, I resorted to combining the different mp3 files into one and having muted slots between them where Orlando speaks. 
+
+Also, even though we were advised not to have the robot move and speak at the same time, my scene was underwhelming in the sense that it was more of a conversation and not an acting scene. Therefore, most of the play has the robot speaking without movement but some parts still had them both since they provoked more emotions in my opinion. 
+
   
 
