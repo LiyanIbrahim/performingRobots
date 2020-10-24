@@ -44,7 +44,8 @@ Also, even though we were advised not to have the robot move and speak at the sa
 It is more audible in real life as a pose to the video.
 
 **Check in 2**:
-It is now time to transfrom the robot into an actor and fix the scenery. 
+
+It is now time to transfrom the robot into an actor and fix the scenery. </br> 
 Transformation: </br>
 Before Pictures of the robot: 
 
