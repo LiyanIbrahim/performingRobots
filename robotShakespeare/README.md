@@ -49,14 +49,14 @@ It is now time to transfrom the robot into an actor and fix the scenery. </br>
 Transformation: </br>
 Before Pictures of the robot: 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.04.51%20PM.png)
-![] (https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.05.22%20PM.png)
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.05.22%20PM.png) </br> 
 
 
-After Pictures: 
+After Pictures: </br> 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.04.09%20PM.png)
-![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.05.07%20PM.png)
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.05.07%20PM.png) </br> 
 
 
-Scene:
+Scene:</br>
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.04.37%20PM.png)
 
