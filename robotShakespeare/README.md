@@ -29,6 +29,9 @@ Some examples include: </br>
   
 Everything I have written so far was all done pre October 24. [This](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/shakespeareT1.ino) is the program that I've written pre October 24, and [this](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/ScriptDrafts.md) is the script I've written pre October 24 based on everything described. 
 
+## October 24: 
+Today, I have to evaluate what I have done so far and test the program to make sure the robot is doing what I want. Then I need to record the audio, set up the scene and film it! 
 
+I think the best way to test it is to test scene by scene and combining the scenes that I am happy with.
   
 
