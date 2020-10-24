@@ -41,5 +41,10 @@ After doing that and inserting them in the SD card, I realized that my SD card w
 
 Also, even though we were advised not to have the robot move and speak at the same time, my scene was underwhelming in the sense that it was more of a conversation and not an acting scene. Therefore, most of the play has the robot speaking without movement but some parts still had them both since they provoked more emotions in my opinion. 
 
-  
+It is more audible in real life as a pose to the video.
+
+**Check in 2**:
+It is now time to transfrom the robot into an actor and fix the scenery. 
+Transformation: </br>
+Before Pictures of the robot: 
 
