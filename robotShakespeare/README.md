@@ -60,3 +60,9 @@ After Pictures: </br>
 Scene:</br>
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.04.37%20PM.png)
 
+**Final product notes: 
+
+This was a conversational scene that took place in the forest in which Rosalind (my robot is disguised as a man. This is seen in her costume in which her clothes say “Who am I?” and “Rosalind?”. The scene was recreated using cardboards and colored paper as trees, a doll unicorn as a horse and fairy lights as stars. </br>
+Even though my OLED did not do something exciting, it was completely working but at some point after reattaching it to the robot, it stopped working. I tried to switch the wires, reglue it on and multiple other things but I could not figure it out since the OLED was attached and lit up and the program was not detecting an error. My best guess is that the glue got into somewhere it should not be.(The code contains the one for the OLED).</br>
+I also did not realize how bad the audio will be on camera as compared to the boy actor who’s voice came from my phone. This is why I added subtitles (The audio was still unclear with different audio files and in real life but it was worse on camera). </br>
+The robot, when turning, strangled herself with the wire connected to my computer so I had to edit it out and insert another clip.  </br>
