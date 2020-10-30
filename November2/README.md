@@ -19,7 +19,7 @@ I was thinking about symbols that relate to electronics for some reason and so I
 Here are the ones I sketched, they all can be animated and are based on the links attached (probably animated in a loop since the action will be repeating in case of the wifi): </br> 
 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/November2/Scanned%20Documents.pdf)
-![](https://github.com/LiyanIbrahim/performingRobots/blob/master/robotShakespeare/Screen%20Shot%202020-10-24%20at%2011.04.37%20PM.png)
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/November2/Scanned%20Documents.pdf)
 
 </li>
 
