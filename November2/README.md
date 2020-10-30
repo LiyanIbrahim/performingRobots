@@ -26,7 +26,7 @@ Animations:
 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/November2/Screen%20Shot%202020-10-30%20at%201.11.16%20PM.png)
 
-![]()
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/November2/Screen%20Shot%202020-10-30%20at%2012.56.24%20PM.png)
 
 </li>
 
