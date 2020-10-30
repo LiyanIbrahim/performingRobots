@@ -10,6 +10,7 @@
   
   Parts of the face: </br>
   I decided to use the eyes because we’ve seen the OLED being used and I think the idea of having expressive eyes is interesting especially since in the movie Blade Runner, based on the book Do Androids Dream of Electric Sheep?, they used eyes to distinguish between humans and robots since they were almost identical in appearance. </br>
+  
   ![](https://github.com/LiyanIbrahim/performingRobots/edit/master/November2/4.png)
   
   </li> 
