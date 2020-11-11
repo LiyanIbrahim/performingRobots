@@ -12,8 +12,10 @@ The story would follow the lyrics in the poem in which there are two characters,
 
 My robot: 
 
+I want my robot to play the father since he’s the main character and feels and remembers these emotions and acts based on it. I’m very conflicted on how I want to represent this character. I’m leaning towards having it shaped like a human but doesn't have human features. I want it to have all the aspects and emotions visibly on the robot instead of human features. 
 
 My scene: 
+I want to have my scene take place in a relatively dim setting and have the light come from within the robot. If my robot is intricately designed, then I would want to balance it with a more "simple set". I want some emotions to be portrayed through visuals and so I am open to have that integrated through the robot itself or the scene.  
 
 Additional notes: 
 
