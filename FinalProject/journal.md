@@ -6,7 +6,7 @@ After looking through many many songs, although many of them are descriptive, I 
 For now, I decided to go with the poem "A Lesson In Drawing" 
 
 What this poem discusses? </br>
-The poems’ general theme is the feeling of being “stateless” and not being able to call a place home. Which I think is very fitting for a robotic performance since what really composes a robots “nationality” or “home”? 
+The poems’ general theme is the feeling of being “stateless” and not being able to call a place home. Which I think is very fitting for a robotic performance since what really composes a robots “nationality” or “home”? In this poem, the father narrates and outlines the story from his eyes and point of view and therefore, already creating this set and scene in the reader's mind.
 
 Why this poem?
 
