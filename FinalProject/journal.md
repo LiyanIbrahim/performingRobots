@@ -52,6 +52,11 @@ Action:
 I want the robot to move in large motions between the sets. Each scene will have a different set and therefore, I want the robot to move smoothly between the sets. This will hopefully allow me to overcome the obstacle of imprecise movements of the motors. I’m still unsure about the implementation of smaller movements within the scene. </br> 
 The robot will switch orientations based on which scene we’re on to show the face of the scene. 
 
+Sound: 
+
+I’ll use the Mp3 speaker to play sound effects and background music since they don’t have to be too loud. However, I’ll play the dialogue either from an external device or I will edit it in. 
+
+
   
  
 
