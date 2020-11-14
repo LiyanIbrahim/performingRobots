@@ -29,5 +29,16 @@ My robot will also be (obviously) a 3D shape but the number of faces or sides wi
 **My scene:** 
 I want to have my scene take place in a relatively dim setting and have the light come from within the robot. If my robot is intricately designed, then I would want to balance it with a more "simple set". I want some emotions to be portrayed through visuals and so I am open to have that integrated through the robot itself or the scene.  
 
+**Specifics: **
+
+Different scenes will be based off of:
+<ul> 
+  <li>Bird </li> 
+  <li>Wheatstalk</li>
+  <li>To recite a poem </li> 
+  <li>Draw a homeland for him</li> 
+</ul> 
+
+
 
 
