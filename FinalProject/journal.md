@@ -29,7 +29,7 @@ My robot will also be (obviously) a 3D shape but the number of faces or sides wi
 **My scene:** 
 I want to have my scene take place in a relatively dim setting and have the light come from within the robot. If my robot is intricately designed, then I would want to balance it with a more "simple set". I want some emotions to be portrayed through visuals and so I am open to have that integrated through the robot itself or the scene.  
 
-**Specifics: **
+**Specifics:**
 
 Different scenes will be based off of:
 <ul> 
@@ -39,6 +39,16 @@ Different scenes will be based off of:
   <li>Draw a homeland for him</li> 
 </ul> 
 
+Costumes: 
+<ol> 
+  <li>Bird: blue background with bird feathers on the side but as he speaks a prison box will be drawn on the robot (since the dad draws a prison box)</li>
+  <li>Wheatstalk: One solid background and indication of violence (either gun or blood) </li> 
+  <li>Recite a Poem: A collage of different arabic poems </li> 
+  <li>Draw a HomeLand: A green solid background and I want to play a video on the robot as a pose to the background (will probably reach out to Jon about this </li> 
+  </ol> 
+  
+  
+ 
 
 
 
