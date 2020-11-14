@@ -7,7 +7,7 @@ For now, I decided to go with the poem "A Lesson In Drawing"
 
 **What this poem discusses?** 
 
-The poems’ general theme is the feeling of being “stateless” and not being able to call a place home. Which I think is very fitting for a robotic performance since what really composes a robots “nationality” or “home”? In this poem, the father narrates and outlines the story from his eyes and point of view and therefore, already creating this set and scene in the reader's mind.
+The poems’ general theme is the feeling of being “stateless” and not being able to call a place home, it discusses the effects of war through a conversation between a son and a father, Which I think is very fitting for a robotic performance since what really composes a robots “nationality” or “home”? In this poem, the father narrates and outlines the story from his eyes and point of view and therefore, already creating this set and scene in the reader's mind.
 
 **Why this poem?**
 I chose this poem because I think it already induces an emotional response in the reader by just reading the poem. It is phrased in a way of a story with dialogue embedded in the poem itself. It also has some emotions (like what the dad felt when asked these questions) clearly stated yet still open for interpretation. Also, while I do think that the poet is narrating a very specific story, I think the outline and emotions discussed could be applicable and appeal to a wide range of audience even if they haven't been in the same situation being described. </br>
