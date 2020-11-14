@@ -1,10 +1,14 @@
 ## Week 1: 
+
+
 After looking through many many songs, although many of them are descriptive, I wanted to create an emotional performance through my robot and none of the songs I looked into facilitiated that for me. Therefore, I decided to start looking into poems. I also started looking into Arabic Poets and poems. From that, I identified a poet that I liked and I wanted to explore his different poems to eventually pick one that can allow me to produce an emotional yet visual performance. 
 
 For now, I decided to go with the poem "A Lesson In Drawing" 
 
 What this poem discusses? </br>
 The poems’ general theme is the feeling of being “stateless” and not being able to call a place home. Which I think is very fitting for a robotic performance since what really composes a robots “nationality” or “home”? 
+
+Why this poem?
 
 Outline of the story:
 
@@ -17,6 +21,5 @@ I want my robot to play the father since he’s the main character and feels and
 My scene: 
 I want to have my scene take place in a relatively dim setting and have the light come from within the robot. If my robot is intricately designed, then I would want to balance it with a more "simple set". I want some emotions to be portrayed through visuals and so I am open to have that integrated through the robot itself or the scene.  
 
-Additional notes: 
 
 
