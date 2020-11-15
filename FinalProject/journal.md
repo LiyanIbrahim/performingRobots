@@ -56,6 +56,10 @@ Sound:
 
 I’ll use the Mp3 speaker to play sound effects and background music since they don’t have to be too loud. However, I’ll play the dialogue either from an external device or I will edit it in. 
 
+Construction so far: 
+
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/constructionPHASE1.png)
+
 **Additional notes:**
 I’m slightly concerned about my costuming since part of my performance will be me drawing things on my robot but I know I will probably have to retake and refilm multiple times and I don’t know how that will play out. 
 
