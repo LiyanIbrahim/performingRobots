@@ -63,7 +63,35 @@ Construction so far:
 **Additional notes:**
 I’m slightly concerned about my costuming since part of my performance will be me drawing things on my robot but I know I will probably have to retake and refilm multiple times and I don’t know how that will play out. 
 
+## Week 2
+This week I want to start constructing the base of my robot as well as a more concrete “script” for the different scenes so I can start working on the code with the movements and sounds and everything that comes with putting on a performance. 
 
+**Obstacles so far:**
+In the Robot: Some scenes so far have aspects where I draw on the robot in the acne and so if I was to reshoot, I will have to redesign the robot face. I’ll either make this robots face simple so I can redesign it easily or I’ll implement a way 
+I also need to practice green screening only the robot and finding a scene that fits the robots shape so it does not look too awkward 
+In the Set: 
+I need to find a place that's spacious and that I can set up my scene in for my robot to move. Since I want it to be a continuous shot, I need the scenes to be a certain distance apart and my code will depend on that since my robot will move to teh scenes and will stop at a certain spot in the scene. 
+
+**Script:**
+Scene 1: Drawing a bird 
+This scene will focus on the interaction between the human (me) and the robot 
+starts in set1 facing face1
+Robot is still, but I will draw a prison on him. 
+Robot will slightly wiggle as a draw a prison on him 
+Transition: robot will move to set2 and will face face2 
+Scene 2: Drawing the sea 
+Robot will be facing face2
+He will also somehow be facing the color blue (or the set will be blue) 
+When he starts speaking (dialogue not narration), he will turn in circles then continuously move to transition 
+Transition: robot will move to set3 and will face face3 
+Scene 3: asked to recite a poem 
+This scene will focus on the way the robot looks rather than the movements 
+Robot will be still 
+Transition moving to the final scene 
+Scene 4: Homeland 
+Greenscreen, I need to figure out what to do here, I want the robot to move and as he moves the screen will change but I don’t know if my editing skills will facilitate that but I definitely want something similar 
+Otherwise, I want the robot to rotate and show all the different sides.
+I want this to be a cinematic scene. 
 
   
  
