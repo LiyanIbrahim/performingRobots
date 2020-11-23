@@ -74,21 +74,31 @@ I need to find a place that's spacious and that I can set up my scene in for my 
 
 **Script:**
 Scene 1: Drawing a bird 
+
 This scene will focus on the interaction between the human (me) and the robot 
 starts in set1 facing face1
 Robot is still, but I will draw a prison on him. 
 Robot will slightly wiggle as a draw a prison on him 
+
 Transition: robot will move to set2 and will face face2 
+
 Scene 2: Drawing the sea 
+
 Robot will be facing face2
 He will also somehow be facing the color blue (or the set will be blue) 
 When he starts speaking (dialogue not narration), he will turn in circles then continuously move to transition 
+
 Transition: robot will move to set3 and will face face3 
+
 Scene 3: asked to recite a poem 
+
 This scene will focus on the way the robot looks rather than the movements 
-Robot will be still 
+Robot will be still
+
 Transition moving to the final scene 
+
 Scene 4: Homeland 
+
 Greenscreen, I need to figure out what to do here, I want the robot to move and as he moves the screen will change but I don’t know if my editing skills will facilitate that but I definitely want something similar 
 Otherwise, I want the robot to rotate and show all the different sides.
 I want this to be a cinematic scene. 
