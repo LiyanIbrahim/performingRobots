@@ -110,4 +110,8 @@ I want this to be a cinematic scene.
 I made a base that can hold the electronic devices and wheels and in which I can stick the different faces to. I made this out of an empty tissue box that I then covered with construction paper. The top of this contraption is open so I can easily access by electronics. Also, I like the fact that the inside can hold all the electronics without weighing anything down since I will probably be using the MP3 trigger and speaker.  
 
 
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/final1.png)
 
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/final2.png)
+
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/final3.png)
