@@ -73,6 +73,7 @@ In the Set:
 I need to find a place that's spacious and that I can set up my scene in for my robot to move. Since I want it to be a continuous shot, I need the scenes to be a certain distance apart and my code will depend on that since my robot will move to teh scenes and will stop at a certain spot in the scene. 
 
 **Script:**
+
 Scene 1: Drawing a bird 
 
 This scene will focus on the interaction between the human (me) and the robot 
@@ -104,7 +105,9 @@ Otherwise, I want the robot to rotate and show all the different sides.
 I want this to be a cinematic scene. 
 
   
- 
+**Construction so far:** 
+
+I made a base that can hold the electronic devices and wheels and in which I can stick the different faces to. I made this out of an empty tissue box that I then covered with construction paper. The top of this contraption is open so I can easily access by electronics. Also, I like the fact that the inside can hold all the electronics without weighing anything down since I will probably be using the MP3 trigger and speaker.  
 
 
 
