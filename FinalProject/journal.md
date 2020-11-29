@@ -121,6 +121,6 @@ I made a base that can hold the electronic devices and wheels and in which I can
 
 At this point, I have most of my robot parts constructed and the skeleton of my code done. I have also identified a set and I will spent most of today finishing up the performnace my syncronizing the code with the set. That way I'll only have the decorating, audio recording and filming left. 
 
-Update 1: 
+Update 1: </br> 
 I finished most of the transitional scenes and so I think this was the hardest part fo trying to syncronize the movement between scenes and faces in a relatively smooth manner. I ran into one problem in which I realized that in the setup, I uncommented a piece of code that inverts something with the use of 0 or 1 for forward or backward. I think this was uncommented in my previous assignments in which I copied the setup code from. I therefore, built all my code based on that and now, in my last transition, I ran into a problem of not being able to move backward because of the inversion. I really only need to move backward for this part and so I need to figure out if it's worth rewriting (or adjusting the code for) or if I should just do this scene using a different movement that does not involve moving backward. 
 
