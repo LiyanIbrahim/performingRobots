@@ -124,3 +124,11 @@ At this point, I have most of my robot parts constructed and the skeleton of my 
 Update 1: </br> 
 I finished most of the transitional scenes and so I think this was the hardest part fo trying to syncronize the movement between scenes and faces in a relatively smooth manner. I ran into one problem in which I realized that in the setup, I uncommented a piece of code that inverts something with the use of 0 or 1 for forward or backward. I think this was uncommented in my previous assignments in which I copied the setup code from. I therefore, built all my code based on that and now, in my last transition, I ran into a problem of not being able to move backward because of the inversion. I really only need to move backward for this part and so I need to figure out if it's worth rewriting (or adjusting the code for) or if I should just do this scene using a different movement that does not involve moving backward. 
 
+Also, last Monday in class, I wrote a list of things I needed to figure out that I wasn't sure how to execute and I shared it with the class. I thought I'd put them here for reference since I did figure out (and do) some of them. 
+<ul> 
+  <li> Is it too little movement? (maybe add some more once you implement what you already have) </li>
+<li>I need to set the scene up and adjust the values in the code so that moving between scenes will be exact</li>
+  <li>I need to figure out what I want to play on the greenscreen </li>
+ <li> I need to figure out who I want to record the audio for me (maybe the youtube video I found but it has music that I don’t like) </li>
+  <li>I want the narration and dad’s voice to be the same but the son’s voice to be different</li> 
+  </ulo> 
