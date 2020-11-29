@@ -115,3 +115,9 @@ I made a base that can hold the electronic devices and wheels and in which I can
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/final2.png)
 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/final3.png)
+
+
+## Week 3
+
+At this point, I have most of my robot parts constructed and the skeleton of my code done. I have also identified a set and I will spent most of today finishing up the performnace my syncronizing the code with the set. That way I'll only have the decorating, audio recording and filming left. 
+
