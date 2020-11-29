@@ -132,3 +132,9 @@ Also, last Monday in class, I wrote a list of things I needed to figure out that
  <li> I need to figure out who I want to record the audio for me (maybe the youtube video I found but it has music that I don’t like) </li>
   <li>I want the narration and dad’s voice to be the same but the son’s voice to be different</li> 
   </ulo> 
+  
+  What I need to do next: 
+  
+ For today: I need to figure out the actions in the scenes, I have those written down and so I just need to adjust them. I also need to adjust the delays so they are in sync with the audio (or at least try). 
+ 
+ 
