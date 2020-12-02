@@ -137,9 +137,10 @@ Also, last Monday in class, I wrote a list of things I needed to figure out that
   
  For today: I need to figure out the actions in the scenes, I have those written down and so I just need to adjust them. I also need to adjust the delays so they are in sync with the audio (or at least try). 
  
- Update 2: 
+Update 2: 
  
 Today, I started off by decorating the different faces. I haven't decorated them before because I know that writing the code takes me a lot longer and I wanted to get that done before. But now that I’ve had most of it done, I went ahead and decorated my four faces. </br>
 This is what they look like: 
 
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/decorate.png)
  
