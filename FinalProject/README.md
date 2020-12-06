@@ -22,4 +22,6 @@ While my full adventure with constructing the robot could be found in my journey
 
 My different faces, used for different scenes, not on robot: 
 
+![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/decorate.png)
+
 My entire robot video showing how it looks like: 
