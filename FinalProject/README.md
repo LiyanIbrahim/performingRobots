@@ -25,3 +25,10 @@ My different faces, used for different scenes, not on robot:
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/decorate.png)
 
 My entire robot video showing how it looks like: 
+
+**Video:** 
+
+**Notes about the video:**
+
+**References & resources:** 
+
