@@ -144,3 +144,10 @@ This is what they look like:
 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/decorate.png)
  
+Update 3:
+
+Once I stuck the faces on the base of the robot, it kind of became unstable in the sense that when it moved forward, it was not moving smoothly and so I had to figure out how to fix that in the structure of my robot. I ended up completely removing the bottom part and replacing it with sturdier cardboard and because the cardboard thickness was different from the original tissue box thickness that I originally used so I had to replace the bottle caps at the bottom for they match. 
+
+I then ran into the problem of breaking my redboard which I then had replaced (thank you so much professor!) and I also had the issue of my motors being acknowledged but not working and after pinning the problem on discord, it was resolved by pressing the reset button on the RedBoard. 
+
+With that, even though I played my performance out a couple of times before, once I put on the faces, the switching between scenes became less smooth so I spent a significant amount of time trying to synchronize it.  
