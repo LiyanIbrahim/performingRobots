@@ -4,7 +4,7 @@
 
 **Concept:** 
 
-For my final performance, I decided to have my robot be the main actor for the performance of Nizar Qabbani’s “A Lesson In Drawing” poem. The poems’ general theme is the feeling of being “stateless” and mourning war; it discusses the effects of war through a conversation between a son and a father.
+For my final performance, I decided to have my robot be the main actor for the performance of [Nizar Qabbani’s](https://en.wikipedia.org/wiki/Nizar_Qabbani) “A Lesson In Drawing” poem. The poems’ general theme is the feeling of being “stateless” and mourning war; it discusses the effects of war through a conversation between a son and a father.
 
 **Why this poem:** 
 
