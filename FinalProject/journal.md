@@ -153,3 +153,6 @@ I then ran into the problem of breaking my redboard which I then had replaced (t
 With that, even though I played my performance out a couple of times before, once I put on the faces, the switching between scenes became less smooth so I spent a significant amount of time trying to synchronize it.  
 
 At that point, I had all the different components working really well and now I had to put them together. After adjusting the delays so they match the audio, I filmed it and I had to edit the video in a way that matched the vibe I was going for. 
+
+The hardest part of editing the video was choosing a video to play on the green screen part of the performance. Check out the ReadMe page for the reasons why I choose what I did and to view the final product! 
+
