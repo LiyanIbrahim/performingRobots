@@ -20,3 +20,6 @@ While we had many many fruitful discussions on the implications of integrating r
 
 While my full adventure with constructing the robot could be found in my journey, I wanted to quickly explain how it’s relevant and how it ended up looking like in my performance.
 
+My different faces, used for different scenes, not on robot: 
+
+My entire robot video showing how it looks like: 
