@@ -28,7 +28,22 @@ My entire robot video showing how it looks like:
 
 **Video:** 
 
+[Link to video!](https://drive.google.com/drive/u/1/folders/1_jfa2tWy-ZXvGzQLXgmR8dDwSyROSSyw)
+
 **Notes about the video:**
+
+In this section of my documentation, I’d like to discuss my decisions behind the set, scenes and some actions my robot took. But of course, with that being said, the premise of my performance is to have the poem be open to interpretation from the viewer but these are just some of my intentions behind having the robot in a certain way. </br> 
+Robot costuming:</br> 
+<li> Costume 1: The first scene talks about a bird and the fathers reaction to being asked to draw a bird.  When I think of birds,I think of happy joyful memories and therefore, colors and so the robot has a lot of colors at the top but since the dad’s reaction is not so positive, the colors fade to black. This highlights the complexity in the fathers character between his memories and his current life.</li> 
+
+<li> Costume 2: This is the only costume in which the father looks like a human. However, instead of the face, I decided to use the OLED display to display the phrase “Memory failed” to indicate how the father doesn’t remember how to draw the sea. I decided to display that phrase on an OLED since it also adds a mechanical nature to it. </li> 
+
+<li> Costume 3: This one is heavily inspired by the words being said in the poem. It speaks about Arabic poems and so the main background was an arabic newspaper and I stuck on some verses from another poem by the same poet. These versus allude to (FINISH THIS). </li> 
+
+<li> Costume 4: The last costume was just a green screen with videos played on it. The video synchronizes with the lyrics talking about a “homeland”. In this scene, I wanted the costume to, very early on, invite the user to think about this poem in the context of robots and I wanted to be explicit which is why I used the video of robots being constructed. I then shift it to displaying a video of a homeland for humans to hopefully draw complexities between the poem in the direction of both humans and robots. </li> 
+
+
+
 
 **References & resources:** 
 
