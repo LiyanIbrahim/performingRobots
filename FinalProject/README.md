@@ -41,7 +41,7 @@ Robot costuming:</br>
 <li> Costume 3: This one is heavily inspired by the words being said in the poem. It speaks about Arabic poems and so the main background was an arabic newspaper and I stuck on some verses from another poem by the same poet. These versus allude to (FINISH THIS). </li> 
 
 <li> Costume 4: The last costume was just a green screen with videos played on it. The video synchronizes with the lyrics talking about a “homeland”. In this scene, I wanted the costume to, very early on, invite the user to think about this poem in the context of robots and I wanted to be explicit which is why I used the video of robots being constructed. I then shift it to displaying a video of a homeland for humans to hopefully draw complexities between the poem in the direction of both humans and robots. </li> 
-
+</br> 
 Set: 
 <li> Set 1: The robot in this scene is very expressive and colorful and the scene itself is very expressive visually and therefore, I wanted the set to be on the simpler side and therefore, I only stuck sharpies on the wall to allude to being asks to draw something (as explained in the poem). I chose one colorful pen and one black pen to add to the complexities of the character.</li> 
 
@@ -51,10 +51,11 @@ Set:
 
 <li> Set 4: I wanted this scene to mainly focus on the video playing and so it doesn’t have anything exciting. </li>  
 
+Movement: 
 
-
-
-
+In this section, I’d just like to explain some movements that I don’t think were as obvious: </br>
+In the first scene, when the robot wiggles briefly when I place the picture of a prison cell on him, this is a sign of disruption and rejection. </br>
+In the third scene, when the robot moves towards the pillow and “scene” halfway through the scene then moves in a circle and transitions to scene 4, this is an indication of getting close to “home” or a sense of belonging by metaphorically getting close to the son figure in this scene but then moves away and is drawn back to the complexities the father is facing and this immediately takes him back to scene 4 which speaks about home. </br>
 
 
 **References & resources:** 
