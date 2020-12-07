@@ -24,7 +24,8 @@ My different faces, used for different scenes, not on robot:
 
 ![](https://github.com/LiyanIbrahim/performingRobots/blob/master/FinalProject/decorate.png)
 
-My entire robot video showing how it looks like: 
+My entire robot video showing how it looks like: </br> 
+https://drive.google.com/drive/u/1/folders/1_jfa2tWy-ZXvGzQLXgmR8dDwSyROSSyw
 
 **Video:** 
 
