@@ -39,7 +39,7 @@ Robot costuming:</br>
 
 <li> Costume 2: This is the only costume in which the father looks like a human. However, instead of the face, I decided to use the OLED display to display the phrase “Memory failed” to indicate how the father doesn’t remember how to draw the sea. I decided to display that phrase on an OLED since it also adds a mechanical nature to it. </li> 
 
-<li> Costume 3: This one is heavily inspired by the words being said in the poem. It speaks about Arabic poems and so the main background was an arabic newspaper and I stuck on some verses from another poem by the same poet. These versus are from the poem “[Unlimited love](https://blogs.transparent.com/arabic/nizar-qabbani-unlimited-love-part-ii/)” and the ones on the robot translate to: 
+<li> Costume 3: This one is heavily inspired by the words being said in the poem. It speaks about Arabic poems and so the main background was an arabic newspaper and I stuck on some verses from another poem by the same poet. These versus are from the poem “ [Unlimited love](https://blogs.transparent.com/arabic/nizar-qabbani-unlimited-love-part-ii/) ” and the ones on the robot translate to: 
 There is nothing that fill my eyes </br> 
 Not the lights ..</br>
 Nor the decorations ..</br>
