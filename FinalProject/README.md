@@ -60,3 +60,9 @@ In the third scene, when the robot moves towards the pillow and “scene” half
 
 **References & resources:** 
 
+<li> https://www.youtube.com/watch?v=ZMhp0wAQni8 </li> 
+<li> https://www.nizariat.com/poetry.php?id=229 </li> 
+<li> https://brainly.in/question/16881996 </li> 
+<li> https://allpoetry.com/A-Lesson-In-Drawing </li> 
+<li> https://blogs.transparent.com/arabic/nizar-qabbani-unlimited-love-part-ii/</li> 
+<li> https://learn.sparkfun.com/tutorials/hookup-guide-for-the-qwiic-motor-driver#experiment-1-testing-the-motors</li> 
