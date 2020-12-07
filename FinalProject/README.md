@@ -42,6 +42,18 @@ Robot costuming:</br>
 
 <li> Costume 4: The last costume was just a green screen with videos played on it. The video synchronizes with the lyrics talking about a “homeland”. In this scene, I wanted the costume to, very early on, invite the user to think about this poem in the context of robots and I wanted to be explicit which is why I used the video of robots being constructed. I then shift it to displaying a video of a homeland for humans to hopefully draw complexities between the poem in the direction of both humans and robots. </li> 
 
+Set: 
+<li> Set 1: The robot in this scene is very expressive and colorful and the scene itself is very expressive visually and therefore, I wanted the set to be on the simpler side and therefore, I only stuck sharpies on the wall to allude to being asks to draw something (as explained in the poem). I chose one colorful pen and one black pen to add to the complexities of the character.</li> 
+
+<li> Set 2: This set mainly expresses the movement from the father being able to draw a blue sea to drawing a black sea to then just drawing black circles. Also, I had the pencil and a paper that says “Sea” in Arabic stuck on the wall to allude to the sea being not colorful and drawn with a pencil. </li> 
+
+<li> Set3: This set is simply a bedroom with the relevant accessories there as spoken about in the poem. While the bedroom looks “human”, I added random wires to continue the theme and constantly remind the viewer that it’s not just any performance but a robotic one. </li> 
+
+<li> Set 4: I wanted this scene to mainly focus on the video playing and so it doesn’t have anything exciting. </li>  
+
+
+
+
 
 
 
