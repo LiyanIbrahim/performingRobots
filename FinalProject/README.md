@@ -68,6 +68,11 @@ In the first scene, when the robot wiggles briefly when I place the picture of a
 In the third scene, when the robot moves towards the pillow and “scene” halfway through the scene then moves in a circle and transitions to scene 4, this is an indication of getting close to “home” or a sense of belonging by metaphorically getting close to the son figure in this scene but then moves away and is drawn back to the complexities the father is facing and this immediately takes him back to scene 4 which speaks about home. </br>
 
 
+**Challenges:**
+
+A main challenge was navigating the scenes all in one shot given the imprecision of the motors used. I really wanted my performance to be raw and filmed all in one shot in which the robot navigates the different scenes but the motors aren’t precise so I had to constantly go back and adjust the delay times and my set so it aligns correctly. </br>
+Another “challenge” was using the Mp3 trigger. I knew it wouldn’t be so clear so I wanted to use background music but it actually wasn’t bad. But then, one I recorded the performance, for some reason, it didn’t pick up great on video and so I ended up, for sake of documentation, having the music play in post editing instead even though it was in the performance (I just turned off the speaker). </br>
+
 **References & resources:** 
 
 <li> https://www.youtube.com/watch?v=ZMhp0wAQni8 </li> 
